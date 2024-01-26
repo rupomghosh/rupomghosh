@@ -12,6 +12,14 @@ Let's connect and collaborate on exciting projects together! 🌟
 
   To view my other profile please click here 👉 <a href="www.linkedin.com/in/rupom-ghosh-40690b267"> My LinkdIn Profile </a>
 
+<h2><b> SKILLS </b></h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,androidstudio,azure,bash,cs,cpp,dotnet,figma,mongodb,mysql)](https://skillicons.dev)
+
+<h2><b> SOCIALS </b></h2>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin,github,gmail)](www.linkedin.com/in/rupom-ghosh-40690b267,https://github.com/rupomghosh,rupomrkg@gmail.com)
+
 
 <!---
 rupomghosh/rupomghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
