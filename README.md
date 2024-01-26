@@ -1,4 +1,4 @@
-<header>I'm Rupom Ghosh</header>
+<title>I'm Rupom Ghosh<title>
 
 👋 Hello there! Welcome to my GitHub profile! I'm Rupom Ghosh, a passionate and results-oriented Software Developer with a knack for crafting innovative solutions and creating robust applications.
 
@@ -7,6 +7,10 @@
 🚀 From developing dynamic Mobile and Web Applications to contributing to open-source projects, I am dedicated to pushing boundaries and delivering high-quality code. 
 
 Let's connect and collaborate on exciting projects together! 🌟
+
+💻My website is <a href="https://rupomkumar777.wixsite.com/rupomkumar"> RupomGhosh </a>
+
+
 <!---
 rupomghosh/rupomghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
