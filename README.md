@@ -10,7 +10,7 @@ Let's connect and collaborate on exciting projects together! 🌟
 
 💻My website is <a href="https://rupomkumar777.wixsite.com/rupomkumar"> Rupom Ghosh's Website</a>
 
-  To view my other profile please click here 👉 <a href="www.linkedin.com/in/rupom-ghosh-40690b267"> My LinkdIn Profile </a>
+  The company i currently work for while embarking into my coding journey  👉 <a href="https://9ci.ca/"> 9CI </a>
 
 <h2><b> SKILLS </b></h2>
 
