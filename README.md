@@ -18,9 +18,9 @@ Let's connect and collaborate on exciting projects together! 🌟
 
 <h2><b> SOCIALS </b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/rupom-ghosh-40690b267)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rupom-ghosh-40690b267/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/rupomghosh)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](rupomrkg@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://rupomrkg@gmail.com)
 
 
 <!---
