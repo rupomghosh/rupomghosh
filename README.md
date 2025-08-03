@@ -14,7 +14,7 @@ Let's connect and collaborate on exciting projects together! 🌟
 
 <h2><b> SKILLS </b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,androidstudio,azure,bash,cs,cpp,dotnet,figma,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,androidstudio,azure,bash,cs,cpp,dotnet,figma,mongodb,mysql,docker,unreal,unity,aws)](https://skillicons.dev)
 
 <h2><b> SOCIALS </b></h2>
 
