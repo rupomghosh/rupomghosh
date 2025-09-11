@@ -12,7 +12,7 @@ Let's connect and collaborate on exciting projects together! 🌟
 
   The company i currently work for while embarking into my coding journey  👉 <a href="https://9ci.ca/"> 9CI </a>
 
-since then i have founded my own company   👉 <a href="https://grivus.com/"> 9CI </a>
+since then i have founded my own company   👉 <a href="https://grivus.com/"> Grivus - AI compliance </a>
 
 <h2><b> SKILLS </b></h2>
 
