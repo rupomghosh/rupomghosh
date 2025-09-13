@@ -1,26 +1,37 @@
   <h1 align="center">I'm Rupom Ghosh </center></h1>
+👋 Hey There, Welcome to my GitHub
 
-👋 Hello there! Welcome to my GitHub profile! A passionate and results-oriented Software Developer with a knack for crafting innovative solutions and creating robust applications.
+<h2>💡 Founder & Software Engineer at Grivus
+ – building AI-powered compliance solutions for financial professionals.</h2>
 
- 💻 With a strong foundation in programming languages like HTML, CSS, PHP, Java, JavaScript, and .NET, for over +3 years in my career. I thrive in dynamic environments where I can turn ideas into reality. 
- 
-🚀 From developing dynamic Mobile and Web Applications to contributing to open-source projects, I am dedicated to pushing boundaries and delivering high-quality code. 
+<h2>🚀 About Me</h2>
 
-Let's connect and collaborate on exciting projects together! 🌟
+I’m a passionate software developer and entrepreneur with 3+ years of experience turning complex problems into elegant, scalable applications. I specialize in building AI-driven tools and compliance management systems tailored for regulated industries.
 
-  The company i currently work for while embarking into my coding journey  👉 <a href="https://9ci.ca/"> 9CI </a>
+🔹 Strong foundation in JavaScript, PHP, Java, C#, .NET, React, Node.js
 
-since then i have founded my own company   👉 <a href="https://grivus.com/"> Grivus - AI compliance </a>
+🔹 Experienced in cloud deployment (AWS, Docker) and data workflows
 
+🔹 Blending technical expertise with a vision for business automation
+
+<h2>🏢 What I’m Working On</h2>
+
+At Grivus, I’m leading the development of an AI compliance management platform that helps Canadian wealth management and advisory firms:
+
+✅ Stay ahead of regulatory changes
+
+✅ Automate compliance tasks and workflows
+
+✅ Save time while reducing risk
 <h2><b> SKILLS </b></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,androidstudio,azure,bash,cs,cpp,dotnet,figma,mongodb,mysql,docker,unreal,unity,aws,blender,postgres,postman)](https://skillicons.dev)
 
 <h2><b> SOCIALS </b></h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rupom-ghosh-40690b267/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rupom-ghosh/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/rupomghosh)
-[![My Skills](https://skillicons.dev/icons?i=mail)](https://rupom@9ci.ca)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://rupom@grivus.com)
 
 
 <!---
