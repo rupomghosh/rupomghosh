@@ -1,12 +1,11 @@
   <h1 align="center">I'm Rupom Ghosh </center></h1>
 👋 Hey There, Welcome to my GitHub
 
-<h2>💡 Founder & Software Engineer at Grivus
- – building AI-powered compliance solutions for financial professionals.</h2>
+<h2>💡 Founder & Software Engineer at Grivus.</h2>
 
 <h2>🚀 About Me</h2>
 
-I’m a passionate software developer and entrepreneur with 3+ years of experience turning complex problems into elegant, scalable applications. I specialize in building AI-driven tools and compliance management systems tailored for regulated industries.
+I’m a passionate software developer and entrepreneur with 3+ years of experience turning complex problems into elegant, scalable applications. I specialize in building AI-driven tools and automation systems tailored for industries and businesses.
 
 🔹 Strong foundation in JavaScript, PHP, Java, C#, .NET, React, Node.js
 
@@ -14,15 +13,6 @@ I’m a passionate software developer and entrepreneur with 3+ years of experien
 
 🔹 Blending technical expertise with a vision for business automation
 
-<h2>🏢 What I’m Working On</h2>
-
-At Grivus, I’m leading the development of an AI compliance management platform that helps Canadian wealth management and advisory firms:
-
-✅ Stay ahead of regulatory changes
-
-✅ Automate compliance tasks and workflows
-
-✅ Save time while reducing risk
 <h2><b> SKILLS </b></h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,androidstudio,azure,bash,cs,cpp,dotnet,figma,mongodb,mysql,docker,unreal,unity,aws,blender,postgres,postman)](https://skillicons.dev)
